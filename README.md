@@ -1,10 +1,10 @@
-# VWallet
+# Javascript wallet
 
 ## Overview
 
 Digital wallet application made with Node.js, Express and MongoDB
 
-![](https://grzegorzbabiarz.com/public/img/vwallet/vwallet2.jpg)
+![](https://grzegorzbabiarz.com/public/img/vwallet/vwallet2.jpg)Cancel changes
 
 ## Built With
 
